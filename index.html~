@@ -31,5 +31,5 @@ layout: default
                 </div>
         </article>
     {% endfor %}-->
-<h1 align="center" class="post-item">Coming soon...</h1>
+<h1 align="center">Coming soon...</h1>
 </main>
